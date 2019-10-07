@@ -1,0 +1,1 @@
+github become less annoying
