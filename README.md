@@ -6,5 +6,5 @@ There are two parts for this tutorial:
 2. In GitHub Page.
 
 
-Thats all if you completed the 'above' steps then you got rid of the annoying retyping of password.
+Thats all if you completed the `above` steps then you got rid of the annoying retyping of password.
 ## In Linux Machine.
